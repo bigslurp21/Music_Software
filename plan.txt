@@ -16,3 +16,10 @@ Project Page:
 - Metrenomoes (and advanced drum-like metrenomes)
 - Sounds/files pool where you can store audio (ex songs, clips of songs, small musical parts etc)
 - Effects pool (takes audio and transforms it) 
+
+
+
+
+
+IT WOULD BE COOL TO MAKE INSTRUMENTS THAT ARE CONTROLLED VIA THE MOUSE AND KEYBOARD 
+...and midi keyboard input should instruments too with lots of libraries to choose from.
