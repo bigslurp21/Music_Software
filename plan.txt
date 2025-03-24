@@ -1,4 +1,4 @@
-Modules:
+Back-End Modules:
 
 * Input audio
 * Listen to audio
@@ -7,4 +7,12 @@ Modules:
 * Project true time 
   - used for placement of audiofiles
 
+Front End Design: (Can be done via html in a web-app like format)
 
+Home page: Cool photos with box that says select project or create project
+
+Project Page:
+- Tracks (with amps) - w/ individual volume control (and eventually advanced time vol control)
+- Metrenomoes (and advanced drum-like metrenomes)
+- Sounds/files pool where you can store audio (ex songs, clips of songs, small musical parts etc)
+- Effects pool (takes audio and transforms it) 
