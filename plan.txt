@@ -1,0 +1,10 @@
+Modules:
+
+* Input audio
+* Listen to audio
+- how to take input and send it to output in real time?
+* Project file system
+* Project true time 
+  - used for placement of audiofiles
+
+
